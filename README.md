@@ -1,2 +1,2 @@
 # scabbard
-for auto_test in python
+for auto_test in python3
