@@ -5,8 +5,8 @@ from config.auto_test import AutoTestConfig
 from config.auto_test1 import AutoTest1Config
 
 _ENV_CONFIG_MAP = {
-    'autotest': DevConfig,
-    'autotest1': Test1Config
+    'autotest': AutoTestConfig,
+    'autotest1': AutoTest1Config
 }
 
 
